@@ -1,5 +1,5 @@
 ## Project Structure 
-First i created a folder name medhatech1
+<p>First i created a folder name medhatech1.</p>
 In that folder i created file name as 'index.html': Main HTML file containing the chatbot interface and welcome message.
 I created CSS file, which is used for styling the chatbot interface.
 I created script.js file,Javascript file containing the chatbot logic.
